@@ -19,7 +19,7 @@
 - Vite
 
 ## Live Demo
-dashboard-admin-ten-iota.vercel.app
+https://dashboard-admin-ten-iota.vercel.app
 
 ## Installation
 
